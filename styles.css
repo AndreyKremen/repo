@@ -8,3 +8,10 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 64px;
 flex: auto;
 }
+h2{
+color:rgb(241, 37, 37);  
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 64px;
+flex: auto;
+}
