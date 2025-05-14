@@ -8,36 +8,3 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 64px;
 flex: auto;
 }
-
-h2{
-color: rgb(238, 241, 8);
-text-align: left;
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 40px;    
-}
-
-h3{
-    color: rgb(12, 138, 39);
-    text-align: right;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;    
-}
-h4{
-    color: rgb(8, 189, 189);
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 64px;    
-}
-h5{
-    color: rgb(170, 58, 151);
-    text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;    
-}
-h6{
-    color: rgb(9, 134, 41);
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 64px;    
-    }
-            
