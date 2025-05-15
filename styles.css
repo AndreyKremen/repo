@@ -5,12 +5,40 @@ h1{
 color:rgb(241, 37, 37);  
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 64px;
+font-size: 14px;
 flex: auto;
 }
 h2{
-color:rgb(241, 37, 37);  
+color:rgb(37, 241, 64);  
+text-align: left;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 24px;
+flex: auto;
+}
+h3{
+color:rgb(41, 37, 241);  
+text-align: right;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 34px;
+flex: auto;
+}
+h4{
+color:rgb(178, 245, 23);  
 text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 44px;
+flex: auto;
+}
+h5{
+color:rgba(37, 234, 241, 0.918);  
+text-align: left;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 54px;
+flex: auto;
+}
+h6{
+color:rgb(230, 16, 194);  
+text-align: right;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 64px;
 flex: auto;
